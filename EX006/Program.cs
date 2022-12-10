@@ -1,4 +1,4 @@
-﻿// Дерево traversal
+﻿// Бинарные деревья
 
 string emp = String.Empty;
 string[] tree = { emp, "/", "*", "10", "-", "+", emp, emp, "4", "2", "1", "3" };
